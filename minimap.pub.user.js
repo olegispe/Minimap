@@ -3,7 +3,7 @@
 // @namespace    plutorising/Minimap
 // @version      0.14.0
 // @description  Minimap for PixelCanvas forked by Boboss#2324
-// @author       Exel80#0080 & Olegisp#9389
+// @author       Exel80#0001 & olegispe#2453
 // @match        http://pixelcanvas.io/*
 // @match        https://pixelcanvas.io/*
 // @grant        GM_addStyle
