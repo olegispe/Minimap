@@ -335,13 +335,13 @@
 			"categories": ["pixelearth"],
 			"aliases": ["PixelEarth", "Europe"]
 		},
-		"udfo {
-			"name": "ufong",
-			"x": 337
-			"y": -102
-			"width": 146
-			"height": 185
-			"categories": ["redpixel"]
+		"ufo": {
+			"name": "ufo.png",
+			"x": 337,
+			"y": -102,
+			"width": 146,
+			"height": 185,
+			"categories": ["redpixel"],
 			"aliases": ["redpixel"]
 		}
 	}
